@@ -1,0 +1,11 @@
+.history {
+    color: white;
+    width: 18%;
+    padding: 0.5%;
+    height: 38vw;
+    float: left;
+    background-color: #ffffff23;
+    margin: 0 auto;
+    font-weight: 600;
+    position: absolute;
+}
